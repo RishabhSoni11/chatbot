@@ -49,5 +49,5 @@
 Have questions or feedback? Let’s connect!
 
 - **Author**: Ayaz Shaikh  
-- **GitHub**: [AyazShaikh01](https://github.com/AyazShaikh01/)  
-- **Chatbot App**: [SkillBot on Streamlit](https://chatbotwithnlp.streamlit.app/)  
+- **GitHub**: [AyazShaikh01](https://github.com/RishabhSoni11)  
+- **Chatbot App**: [ChatBot on Streamlit](https://chatbot-n38q2r5tvlbnkwuhfgwyzw.streamlit.app/)  
