@@ -6,7 +6,6 @@ import nltk
 import ssl
 import streamlit as st
 import random
-from streamlit_option_menu import option_menu
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 
